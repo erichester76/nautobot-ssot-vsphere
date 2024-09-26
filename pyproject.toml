@@ -18,9 +18,9 @@ packages = [
 
 [tool.poetry.dependencies]
 # Used for local development
-python = "^3.7"
+python = "^3.11"
 diffsync = "^1.4.3"
-nautobot-ssot = "^1.1.0"
+nautobot-ssot = "^3.1.0"
 netutils = "^1.1.0"
 
 [tool.poetry.dev-dependencies]
